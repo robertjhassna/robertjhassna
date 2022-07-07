@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences <a href="https://docs.google.com/document/d/1L5QnNPEI27R-YHbJINA4qVsrzQEHtQIK/edit?usp=sharing&ouid=115505514595497631766&rtpof=true&sd=true">Resume</a>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
