@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Associates Degree in CS](https://catalog.sierracollege.edu/departments/computer-science/#degreescertificatestext)
 
-- 🌱 I’m currently learning **I’m currently learning HTML, CSS, JS, NodeJS, React, Java**
+- 🌱 I’m currently learning **I’m currently learning HTML, CSS, JS, NodeJS, React, Java, Python, BASH, Git**
 
 - 👨‍💻 All of my projects are available <a href="https://github.com/robertjhassna?tab=repositories">here</a>
 
